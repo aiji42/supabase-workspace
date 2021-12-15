@@ -1,9 +1,0 @@
-{
-  "name": "supabase-workspace",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "supabase": "^0.5.0"
-  }
-}
